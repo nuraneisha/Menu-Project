@@ -1,0 +1,29 @@
+* {
+  background-color: rgb(14, 42, 14);
+}
+#header
+{
+  width:100%
+}
+#logo
+{
+  height:80px;
+  width:90px;
+  display:flex;
+  transform:translate(900px,-30px);
+}
+
+h1 
+{
+  color: white;
+  text-align: center;
+  transform: translateY(-100%); /* Adjust the position back by 50% of the image's width and height */
+}
+h2 
+{
+  color: white;
+}
+ul{
+  color: white;
+}
+
